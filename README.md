@@ -1,4 +1,4 @@
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}"></a>
+<h1>Gustavo Luan Leite de Araújo</h1>
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excell"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="google analytics">
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">

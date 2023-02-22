@@ -1,4 +1,5 @@
 <h1>Gustavo Luan Leite de Araújo</h1>
+<img src="https://media.discordapp.net/attachments/1044972183870525540/1077986322385481810/Gustavo_Araujo__2_-removebg-preview.png?width=960&height=225" alt="img de perfil">
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excell"><img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="google analytics">
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blogger">

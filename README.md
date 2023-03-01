@@ -1,5 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://media.discordapp.net/attachments/1044972183870525540/1077986322385481810/Gustavo_Araujo__2_-removebg-preview.png?width=960&height=225" /></a>
+# Hi There I'm Gustavo Araujo. I'm Brazilian
+💪 I am currently working with my portfolio website <br>
+🌾 I'm currently learning Html, css and javascript
+👨‍👨‍👧‍📩
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&theme=radical)
 

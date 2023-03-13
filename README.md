@@ -3,9 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO+ARAUJO;EU+TENHO+28+ANOS;SOU+DE+CURITIBA,+PR;SEJAM+BEM+VINDOS!🎉)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Gustavo Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=259073&icon_color=1bc497&text_color=259073&bg_color=22272e" alt="Gustavo Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=259073&text_color=259073&bg_color=22272e" />
 </div>
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=onedreamcwb&bg_color=22272e&color=259073&line=259073&point=53cfad&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 # Minha carreira de estudos
 

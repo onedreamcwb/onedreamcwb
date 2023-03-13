@@ -2,6 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO+ARAUJO;EU+TENHO+28+ANOS;SOU+DE+CURITIBA,+PR;SEJAM+BEM+VINDOS!🎉)](https://git.io/typing-svg)
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" alt="Gustavo Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10" />
+</div>
+
+# Minha carreira de estudos
+
+
+
 
 <a href="https://t.me/GustavoAraujo2025"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://wa.me/5541984712476"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>

@@ -32,14 +32,15 @@
            <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
            <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     </div>
-
-## 👋🏼 I am Gustavo araújo
+<div align="left">
+   <h1>I am Gustavo araújo👋</h1>
 
 - ☕ I love learning, having coffee, and spending time with family.
 - 🧗🏼‍♂️ Focused and determined.
 - 🏠 Residence: Curitiba-Pr-Brazil
 - 🧒🏼 Age: 28 years
 - 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a><img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)
 

@@ -2,35 +2,36 @@
 
 <div align="left">
    <a href="https://www.linkedin.com/in/ga20222/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-4A154B?style=for-the-badge&logo=linkedin&logoColor=blue"/>
   </a>
   <a href="https://wa.me/554184712476">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WhatsApp-271838?style=for-the-badge&logo=whatsapp&logoColor=green"/>
   </a>
   <a href="https://app.slack.com/client/T05C15BLCJD/D05BNFZPC3C/rimeto_profile/U05BQUQJX9A?geocode=pt-br">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
   <a href="https://dev.to/onedreamcwb">
-  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dev.to-271838?style=for-the-badge&logo=dev.to&logoColor=grey"/>
   </a>
    <a href="https://app.daily.dev/onedreamcwb">
-      <img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=l07" 
+      <img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=107" 
            width="400"
            align="right"
-           alt="Gustavo Araújo's Dev Card"/></a>
+           alt="Gustavo Araújo's Dev Card"/>
+   </a>
   
   <h1> Skills ⚡</h1>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-           <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-           <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-271838?style=for-the-badge&logo=python&logoColor=blue"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-4A154B?style=for-the-badge&logo=tailwind-css&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/React-271838?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+     <img src="https://img.shields.io/badge/JavaScript-4A154B?style=for-the-badge&logo=javascript&logoColor=yellow"/>
+      <img src="https://img.shields.io/badge/HTML5-271838?style=for-the-badge&logo=html5&logoColor=orange"/>
+       <img src="https://img.shields.io/badge/Sass-4A154B?style=for-the-badge&logo=sass&logoColor=pink"/>
+        <img src="https://img.shields.io/badge/CSS3-271838?style=for-the-badge&logo=css3&logoColor=blue"/>
+         <img src="https://img.shields.io/badge/Tailwind_CSS-4A154B?style=for-the-badge&logo=tailwind-css&logoColor=blue"/>
+          <img src="https://img.shields.io/badge/Amazon_AWS-271838?style=for-the-badge&logo=amazon-aws&logoColor=orange"/>
+           <img src="https://img.shields.io/badge/Microsoft_Office-4A154B?style=for-the-badge&logo=microsoft-office&logoColor=orange"/>
+           <img src="https://img.shields.io/badge/Microsoft_Excel-271838?style=for-the-badge&logo=microsoft-excel&logoColor=green"/>
     </div>
 <div align="left">
    <h1>I am Gustavo araújo👋</h1>
@@ -42,7 +43,7 @@
 - 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a>
    <img 
         width=47% 
-        src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
+        src="https://capsule-render.vercel.app/api?type=waving&color=4A154B&height=180&section=header&text=I+CODE+THEREFORE+I+EXIST!&fontSize=28&fontColor=EE9976&animation=twinkling&fontAlignY=35"/>
 </div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)

@@ -1,8 +1,24 @@
+# Hi there 👋
+
 <div align="left">
-  <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" /> 
-  <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&thme=transparent" />
-  <a href="https://app.daily.dev/onedreamcwb"><img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" width="400" alt="Gustavo Araújo's Dev Card"/></a>
+  <a href="https://www.linkedin.com/in/ga20222/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+  <h1> Linguagens</h1>
+ 
+   <img 
+        src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" 
+        width="400"
+        align="right"
+        alt="Gustavo Araújo's Dev Card"/></a>
 </div>
+
+## I am Gustavo araújo
+
+- I love learning, having coffee, and spending time with family.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 

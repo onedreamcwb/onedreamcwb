@@ -46,21 +46,23 @@
         src="https://capsule-render.vercel.app/api?type=waving&color=4A154B&height=180&section=header&text=I+CODE+THEREFORE+I+EXIST!&fontSize=28&fontColor=EE9976&animation=twinkling&fontAlignY=35"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EE9976&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=2269BE&icon_color=1bc497&text_color=2269BE&bg_color=22272e" alt="Gustavo Araujo github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=2269BE&text_color=2269BE&bg_color=22272e" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=EE9976&icon_color=EE9976&text_color=EE9976&bg_color=4A154B"alt="Gustavo Araujo github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onedreamcwb&layout=compact&hide_border=true&title_color=EE9976&text_color=EE9976&bg_color=4A154B" />
 </div>
 
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=onedreamcwb&bg_color=2269BEe&color=2269BE&line=2269BE&point=53cfad&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center"> 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=53cfad&vCenter=true&width=350&height=30&lines=MINHA+CARREIRA+DE+ESTUDOS" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=10000&pause=5000&color=EE9976&vCenter=true&width=350&height=30&lines=My+CARRER+OF+STUDIES" alt="Typing SVG" /></a>
 
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=53cfad&vCenter=true&width=110&lines=Front-end" alt="Typing SVG" /></a>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=EE9976&vCenter=true&width=110&lines=Front-end" alt="Typing SVG" /></a>
   
- <img src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/> <img src ="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=WordPress&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/figma%20-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=4A154B"/>
+   <img src ="https://img.shields.io/badge/webflow-4353FF?style=for-the-badge&logo=WordPress&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%4A154B"/> 
+   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=4A154B"/> 
   
 ### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=3000&color=53cfad&vCenter=true&width=240&lines=ATUALMENTE+ESTUDANDO" alt="Typing SVG" /></a>
 

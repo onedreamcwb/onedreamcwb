@@ -1,4 +1,8 @@
-<a href="https://app.daily.dev/onedreamcwb"><img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" width="400" alt="Gustavo Araújo's Dev Card"/></a>
+<div align="left">
+  <img width="465px" height="140px"  align="left" src="https://github-readme-stats.vercel.app/api?username=KAYOKG&show_icons=true&count_private=true&hide_border=true&title_color=8A2BE2&icon_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="Kayo Galdino github stats" /> 
+  <img width="427px" height="200px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAYOKG&layout=compact&hide_border=true&title_color=8A2BE2&text_color=9932CC&bg_color=0a0c10&thme=transparent" />
+  <a href="https://app.daily.dev/onedreamcwb"><img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" width="400" alt="Gustavo Araújo's Dev Card"/></a>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 

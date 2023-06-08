@@ -13,11 +13,11 @@
   <a href="https://dev.to/onedreamcwb">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a>
-  <img 
-        src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" 
-        width="400"
-        align="right"
-        alt="Gustavo Araújo's Dev Card"/></a>
+   <a href="https://app.daily.dev/onedreamcwb">
+      <img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=l07" 
+           width="400"
+           align="right"
+           alt="Gustavo Araújo's Dev Card"/></a>
   
   <h1> Skills ⚡</h1>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

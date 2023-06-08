@@ -4,16 +4,24 @@
   <a href="https://www.linkedin.com/in/ga20222/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
+      alt="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
   </a>
-  <h1> Linguagens</h1>
- 
-   <img 
+  <a href="#">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="mailto:gustavo.luanaraujo2018@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <img 
         src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" 
         width="400"
         align="right"
         alt="Gustavo Araújo's Dev Card"/></a>
+  
+  <h1> Linguagens</h1>
+ 
+   
 </div>
 
 ## I am Gustavo araújo

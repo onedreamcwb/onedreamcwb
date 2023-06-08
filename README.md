@@ -1,36 +1,49 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ga20222/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white"/>
+   <a href="https://www.linkedin.com/in/ga20222/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="#">
+  <a href="https://wa.me/554184712476">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="[mailto:gustavo.luanaraujo2018@gmail.com](https://mail.google.com/mail/u/0/#inbox)">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://app.slack.com/client/T05C15BLCJD/D05BNFZPC3C/rimeto_profile/U05BQUQJX9A?geocode=pt-br">
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   </a>
-  
+  <a href="https://dev.to/onedreamcwb">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+  </a>
   <img 
         src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" 
         width="400"
         align="right"
         alt="Gustavo Araújo's Dev Card"/></a>
   
-  <h1> Linguagens</h1>
- 
-   
-</div>
+  <h1> Skills ⚡</h1>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+         <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+           <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+           <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </div>
 
-## I am Gustavo araújo
+## 👋🏼 I am Gustavo araújo
 
-- I love learning, having coffee, and spending time with family.
+- ☕ I love learning, having coffee, and spending time with family.
+- 🧗🏼‍♂️ Focused and determined.
+- 🏠 Residence: Curitiba-Pr-Brazil
+- 🧒🏼 Age: 28 years
+- 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
+<img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO+ARAUJO;EU+TENHO+28+ANOS;SOU+DE+CURITIBA,+PR;SEJAM+BEM+VINDOS!🎉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=onedreamcwb&show_icons=true&count_private=true&hide_border=true&title_color=2269BE&icon_color=1bc497&text_color=2269BE&bg_color=22272e" alt="Gustavo Araujo github stats" /> 

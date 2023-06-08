@@ -1,3 +1,5 @@
+<a href="https://app.daily.dev/onedreamcwb"><img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=xh9" width="400" alt="Gustavo Araújo's Dev Card"/></a>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+GUSTAVO+ARAUJO;EU+TENHO+28+ANOS;SOU+DE+CURITIBA,+PR;SEJAM+BEM+VINDOS!🎉)](https://git.io/typing-svg)

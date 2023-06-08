@@ -39,9 +39,7 @@
 - 🧗🏼‍♂️ Focused and determined.
 - 🏠 Residence: Curitiba-Pr-Brazil
 - 🧒🏼 Age: 28 years
-- 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a>
-
-<img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
+- 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a><img width=50% src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=259073&size=35&center=true&vCenter=true&width=1000&lines=THE,+FUTURE+BELONGS+TO+THOSE+WHO;BELIEVE+IN+THE+BEAUTY;OF+THEIR+DREAMS!🎉)](https://git.io/typing-svg)
 

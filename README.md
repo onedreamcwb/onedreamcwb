@@ -41,7 +41,7 @@
 - 🧒🏼 Age: 28 years
 - 🏢 Work: <a href="https://www.linkedin.com/company/webhelp/?originalSubdomain=br">Web Help Services</a>
    <img 
-        width=49% 
+        width=47% 
         src="https://capsule-render.vercel.app/api?type=waving&color=2269BE&height=180&section=header&text=O+QUE+EU+NÃO+SEI,+ME+DÊ+ALGUNS+DIAS!&fontSize=23&fontColor=3eb595&animation=twinkling&fontAlignY=35"/>
 </div>
 

@@ -15,7 +15,7 @@
   </a>
    <a href="https://app.daily.dev/onedreamcwb">
       <img src="https://api.daily.dev/devcards/75a1d2678d2246619fce971719912a2d.png?r=107" 
-           width="300"
+           width="350"
            align="right"
            alt="Gustavo Araújo's Dev Card"/>
    </a>
